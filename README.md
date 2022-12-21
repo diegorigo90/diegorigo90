@@ -1,7 +1,7 @@
 
 # About Me:
-🔭 I’m currently working as a developer in a software factory in Verona
-🌱 I like learning new technologies and new scientific informations
+🔭 I’m currently working as a developer in a software factory in Verona<br>
+🌱 I like learning new technologies and new scientific informations<br>
 📊 I love mathematics and physics
 
 
