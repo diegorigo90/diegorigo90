@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working as a developer in a software factory in Verona<br>🌱 I like learning new technologies and new scientific informations
+# About Me:
+🔭 I’m currently working as a developer in a software factory in Verona<br>
+🌱 I like learning new technologies and new scientific informations
 
 
 ## 🌐 Socials:
