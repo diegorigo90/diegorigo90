@@ -1,10 +1,4 @@
 
-# About Me:
-🔭 I’m currently working as a developer in a software factory in Verona<br>
-🌱 I like learning new technologies and new scientific informations<br>
-📊 I love mathematics and physics
-
-
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/-website-yellowgreen?logo=Angular&style=for-the-badge)](https://www.diegorigo.it/#/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/Diego%20Rigo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/diegorigo90) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://it.linkedin.com/in/diego-rigo) 
 
